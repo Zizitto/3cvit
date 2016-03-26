@@ -1,0 +1,8 @@
+.container {
+    width: 730px; 
+}
+
+.container > .navbar-header, .container > .navbar-collapse {
+    margin-right: -15px;
+    margin-left: -15px;
+}

@@ -1,0 +1,74 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+div {
+    display: block;
+}
+
+html {
+    color: #484051;
+    width: 100%;
+}
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+section {
+    position: relative;
+    display: block;
+}
+a {
+    color: #484051;
+}
+a:hover {
+    color: #bb2808;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+input, textarea {
+    margin-top: 20px !important;
+}
+
+#admin-menu-search input {
+    margin-top: 0px !important;
+}
+
+#admin-menu {
+    font-size: 11px !important;
+}
+
+.page-header {
+    margin-top: 0;
+    margin-bottom: 13px;
+}
+
+.container{
+    -webkit-transition: 200ms;
+    -moz-transition: 200ms;
+    -o-transition: 200ms;
+    transition: 200ms;
+}
+
+.hoverflow.views-fieldset{
+    -webkit-animation-name: none;
+    -webkit-animation-duration: none;
+    -webkit-animation-fill-mode: none;
+}
+.background.views-fieldset{
+    -webkit-animation-name: none;
+    -webkit-animation-duration: none;
+    -webkit-animation-fill-mode: none;
+}
+
+.page-title {
+    margin-bottom: 20px;
+}
+
+.term-listing-heading {
+    margin-bottom: 20px;
+}
